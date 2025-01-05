@@ -40,8 +40,8 @@ These examples are implemented in Python using `NumPy` and `Matplotlib`, providi
 ### Installation
 Clone this repository and navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/CNN-StepByStep.git
-cd CNN-StepByStep
+git clone https://github.com/MohammedSaqibMS/Convolution_model_Step_by_Step.git
+cd Convolution_model_Step_by_Step
 ```
 
 Install the required dependencies:
