@@ -1,7 +1,3 @@
-
-
-Here’s a professional `README.md` file with emojis and credits for the repository:
-
 ```markdown
 # 🧠 Convolutional Neural Networks: Step by Step
 
