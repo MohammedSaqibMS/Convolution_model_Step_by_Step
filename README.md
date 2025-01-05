@@ -90,10 +90,3 @@ Special thanks to the amazing team at [DeepLearning.AI](https://www.deeplearning
 ## 📬 Contact
 
 For any questions or suggestions, feel free to reach out via email or create an issue in the repository. Let's learn and grow together! 🌱✨
-
-### Highlights:
-- Added clear structure with emojis for readability.
-- Included installation and usage instructions.
-- Gave credit to [DeepLearning.AI](https://www.deeplearning.ai/courses/deep-learning-specialization/). 
-
-Feel free to customize further based on your preferences!
