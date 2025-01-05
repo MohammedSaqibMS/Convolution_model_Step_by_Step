@@ -1,8 +1,4 @@
 
-Here’s a professional README.md file with emojis and credits for the repository:
-
-markdown
-Copy code
 # 🧠 Convolutional Neural Networks: Step by Step
 
 Welcome to the **Convolutional Neural Networks: Step by Step** repository! 🚀 This project provides an in-depth implementation of foundational concepts in Convolutional Neural Networks (CNNs), including zero-padding, convolutional steps, forward propagation, and pooling layers. 
